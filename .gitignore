@@ -1,2 +1,4 @@
 data/
 __pycache__/
+*.pt
+training_history.json
